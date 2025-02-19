@@ -2209,7 +2209,6 @@ textarea.w-input, textarea.w-select {
 @media screen and (max-width: 991px) {
   .main_img_text._2.blacktest {
     background-color: #0000;
-    background-image: radial-gradient(circle, #000, #fff);
     border-top: 1px #00f;
     border-radius: 0;
     margin-right: 0;
